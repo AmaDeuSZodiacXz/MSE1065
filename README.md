@@ -38,7 +38,3 @@ The repository demonstrates feature engineering, exploratory data analysis (EDA)
    - PCA visualization for feature dimensionality.
 
 ---
-
-## **Repository Structure**
-
-├── data/ # Dataset files ├── notebooks/ # Jupyter notebooks for EDA and model training ├── src/ # Source code for feature engineering and models ├── results/ # Output results and visualizations ├── README.md # Project documentation
